@@ -6,7 +6,7 @@ Shift Baru: D
 
 # Tugas Pertemuan 7
 
-![Tampilan aplikasi](pertemuan_6/src/assets/docs)
+![Tampilan aplikasi](pertemuan_6/src/assets/docs/Screen%20Shot%202024-10-30%20at%2014.30.05.png)
 
 Komponen yang ditambahkan adalah list beserta dengan item. Berikut adalah cara menambahkannya:
 
